@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "Home",
+		"url": "/"
+	},
+	{
+		"id": 2,
+		"title": "Our Story",
+		"url": "/story"
+	},
+	{
+		"id": 3,
+		"title": "Roadmap for 2024",
+		"url": "/roadmap"
+	},
+	{
+		"id": 4,
+		"title": "Our investors",
+		"url": "/investors"
+	},
+	{
+		"id": 5,
+		"title": "Invest in Accouche",
+		"url": "/invest"
+	},
+	{
+		"id": 6,
+		"title": "Read our articles",
+		"url": "/blogs"
+	}
+]
