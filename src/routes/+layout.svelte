@@ -18,7 +18,9 @@
 		<div class="drawer-content flex flex-col">
 			<!-- Navbar -->
 			<div class="w-full navbar bg-base-100uiop border-b-1 border-b-2 py-4">
-				<div class="font-wayfinder font-bold text-xl w-1/5 mr-auto text-[#24181D]">Accouche Capital</div>
+				<div class="font-wayfinder font-bold text-xl w-1/5 mr-auto text-[#24181D]">
+					<a href="/">Accouche Capital</a>
+				</div>
 				<div class="flex-none lg:hidden">
 					<label for="drawer" aria-label="open sidebar" class="btn btn-square btn-ghost">
 						<svg
@@ -52,7 +54,9 @@
 			<label for="drawer" aria-label="close sidebar" class="drawer-overlay" />
 			<ul class="menu p-4 w-full min-h-full bg-base-100">
 				<div class="flex justify-between pb-4 border-b-2">
-					<div class="font-wayfinder font-bold text-xl w-1/5 text-[#24181D]">Accouche Capital</div>
+					<div class="font-wayfinder font-bold text-xl w-1/5 text-[#24181D]">
+						<a href="/">Accouche Capital</a>
+					</div>
 					<button on:click={uncheck}><img src={navClose} alt="" /></button>
 				</div>
 				<div>

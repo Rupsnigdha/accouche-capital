@@ -10,9 +10,11 @@
 		</div>
 		<div class="h-full w-full absolute flex flex-col justify-center items-center pb-64">
 			<div>
-				<img src={trend} alt="">
+				<img src={trend} alt="" />
 			</div>
-			<h2 class="text-center my-3 text-[#509165] font-articulat font-bold">The story behind Accouche</h2>
+			<h2 class="text-center my-3 text-[#509165] font-articulat font-bold">
+				The story behind Accouche
+			</h2>
 			<p class="text-center text-[#509165] text-xsx">
 				Investing in remarkable small-town startups and helping them become profitable companies.
 			</p>
