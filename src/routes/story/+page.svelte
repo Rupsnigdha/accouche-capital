@@ -6,7 +6,7 @@
 <section>
 	<div class="hero-height relative w-full overflow-hidden">
 		<div class="h-full absolute w-full">
-			<img src={Background} class="object-cover opacity-90" alt="" />
+			<img src={Background} class="object-cover w-full h-full opacity-90" alt="" />
 		</div>
 		<div class="h-full w-full absolute flex flex-col justify-center items-center pb-64">
 			<div>
