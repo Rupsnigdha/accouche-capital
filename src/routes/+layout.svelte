@@ -1,6 +1,7 @@
 <script lang="ts">
-	import './app.css';
+	import {page} from '$app/stores';
 
+	import './app.css';
 	import navClose from '$lib/images/nav-close.png';
 
 	import navLinks from '$lib/data/navLinks.json';
@@ -66,7 +67,7 @@
 							id={`nav-${link.url}`}
 							on:click={uncheck}
 							value={link.url}
-							><a class={`w-full block py-6`} href={link.url}>{link.title}</a></button
+							><a class={`w-full block py-6`} href={link.url} class:current={$page.url.pathname === link.url}>{link.title}</a></button
 						>
 					{/each}
 				</div>

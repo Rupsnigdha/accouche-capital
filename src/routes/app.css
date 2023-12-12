@@ -5,3 +5,6 @@
 .hero-height {
 	height: calc(100vh - 72px);
 }
+.current {
+	color: #7E8D21;
+}
