@@ -3,6 +3,7 @@
     import deepak from '$lib/images/deepak.png'
     import circles from '$lib/images/present-circles.png'
     import trust from '$lib/images/trust.png';
+    import polygon from '$lib/images/polygon.png'
 </script>
 <section>
     <section class="hero-height flex flex-col justify-between py-16">
@@ -80,7 +81,7 @@
         >
         </div>
     </section>
-    <section class="h-screen bg-[#434331] py-16 px-10 flex flex-col items-center">
+    <section class="bg-[#434331] py-16 px-10 flex flex-col items-center">
         <h2 class="text-center font-quincy font-[500] text-[#FFFDF9] text-[27.5px]">Fund Allocation</h2>
         <div class="flex justify-evenly w-full">
             <div class="flex">
@@ -94,13 +95,37 @@
     </section>
     <section class="py-16 px-10">
         <h2 class="text-center font-quincy text-3xl text-[#434331] font-medium">Projections for next year</h2>
-        <p>By 2025, we’re targeting 52% returns on our initial capital, plus half a crore of fresh investments.</p>
-        <div>
-            
+        <p class="text-center font-articulat font-medium text-[#A7A788] mt-4 text-sm">By 2025, we’re targeting 52% returns on our initial capital, plus half a crore of fresh investments.</p>
+        <div class="flex justify-between">
+            <div class="w-[127px] h-[127px] relative flex items-center justify-center">
+                <img src={polygon} alt="" class="absolute">
+                <div class="absolute flex flex-col w-3/5">
+                    <h4 class="text-center font-articulat font-black text-[34px] text-[#FFFDF9]">1%</h4>
+                    <p class="text-center font-articulat font-medium text-[11px] text-[#FFFDF9]">of total capital every week</p>
+                </div>
+            </div>
+            <div class="w-[127px] h-[127px] relative flex items-center justify-center">
+                <img src={polygon} alt="" class="absolute">
+                <div class="absolute flex flex-col w-3/5">
+                    <h4 class="text-center font-articulat font-black text-[34px] text-[#FFFDF9]">52%</h4>
+                    <p class="text-center font-articulat font-medium text-[11px] text-[#FFFDF9]">of total capital in one year</p>
+                </div>
+            </div>
         </div>
+        <p class="text-center font-articulat font-medium text-[#A7A788] mt-8 text-sm">Additionally, we want to raise</p>
+        <div class="flex justify-center">
+            <p class="flex items-center"><span class="font-articulat font-black text-[30px] text-[#434331]">
+                ₹
+            </span>
+        <span class="font-articulat text-[#7E8D21] text-[52px] font-[900]">50,00,000</span>
+        </p>
+        </div>
+        <p class="text-center font-articulat font-medium text-[#A7A788] text-sm">in 2024 from various investors to increase our working capital.</p>
+        <h3 class="text-center font-medium text-[#434331] text-[27.5px] font-quincy mt-8">By 2025</h3>
+        <p class="text-center font-articulat font-medium text-[#A7A788] text-sm">Our total funds would’ve grown to ₹1.26CR (pre-taxes) from returns and fresh investments.</p>
     </section>
     <section>
-        <div class="flex justify-center pt-16">
+        <div class="flex justify-center">
             <img src={trust} alt="" width="200" />
         </div>
         <h2 class="font-quincy font-medium text-3xl text-center">Money is made.</h2>
