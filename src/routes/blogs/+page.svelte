@@ -1,3 +1,0 @@
-<section>
-    blogs
-</section>

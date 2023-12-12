@@ -27,7 +27,7 @@
 	</div>
 	<div class="w-full justify-self-end">
 		<div class="w-full">
-			<img src={mobileHomeVector1} alt="" class="">
+			<img src={mobileHomeVector1} alt="" class="w-full">
 		</div>
 	</div>
 </section>

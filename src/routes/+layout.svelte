@@ -6,8 +6,6 @@
 	import navLinks from '$lib/data/navLinks.json';
 	import Footer from '$lib/components/Footer.svelte';
 
-	import { red } from '../stores/stores';
-
 	function uncheck() {
 		let drawer = document.getElementById('drawer') as HTMLInputElement;
 		drawer.checked = false;
