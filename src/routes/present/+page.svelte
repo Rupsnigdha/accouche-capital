@@ -104,7 +104,7 @@
 				Fund Allocation
 			</h2>
 			<div class="my-10 flex justify-center">
-				<img src={allocation} alt="" class="w-full">
+				<img src={allocation} alt="" class="w-full" />
 			</div>
 			<div class="flex justify-evenly w-full">
 				<div class="flex">
@@ -169,7 +169,7 @@
 		</p>
 		<h3 class="text-center font-medium text-[#434331] text-[27.5px] font-quincy mt-8">By 2025</h3>
 		<div class="flex justify-center">
-			<img src={prediction} alt="" class="w-full my-10">
+			<img src={prediction} alt="" class="w-full my-10" />
 		</div>
 		<p class="text-center font-articulat font-medium text-[#A7A788] text-sm">
 			Our total funds would’ve grown to ₹1.26CR (pre-taxes) from returns and fresh investments.
