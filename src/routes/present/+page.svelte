@@ -4,6 +4,8 @@
 	import circles from '$lib/images/present-circles.png';
 	import trust from '$lib/images/trust.png';
 	import polygon from '$lib/images/polygon.png';
+	import allocation from '$lib/images/allocation.png';
+	import prediction from '$lib/images/prediction.png';
 </script>
 
 <section>
@@ -101,6 +103,9 @@
 			<h2 class="text-center font-quincy font-[500] text-[#FFFDF9] text-[27.5px]">
 				Fund Allocation
 			</h2>
+			<div class="my-10 flex justify-center">
+				<img src={allocation} alt="" class="w-full">
+			</div>
 			<div class="flex justify-evenly w-full">
 				<div class="flex">
 					<div
@@ -163,6 +168,9 @@
 			in 2024 from various investors to increase our working capital.
 		</p>
 		<h3 class="text-center font-medium text-[#434331] text-[27.5px] font-quincy mt-8">By 2025</h3>
+		<div class="flex justify-center">
+			<img src={prediction} alt="" class="w-full my-10">
+		</div>
 		<p class="text-center font-articulat font-medium text-[#A7A788] text-sm">
 			Our total funds would’ve grown to ₹1.26CR (pre-taxes) from returns and fresh investments.
 		</p>

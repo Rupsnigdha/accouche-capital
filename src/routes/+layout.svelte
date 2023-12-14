@@ -13,7 +13,7 @@
 	}
 </script>
 
-<div class="app">
+<div class="app w-full max-w-md mx-auto">
 	<div class="drawer">
 		<input id="drawer" type="checkbox" class="drawer-toggle" />
 		<div class="drawer-content flex flex-col">
@@ -22,7 +22,7 @@
 				<div class="font-wayfinder font-bold text-xl w-1/5 mr-auto text-[#24181D]">
 					<a href="/">Accouche Capital</a>
 				</div>
-				<div class="flex-none lg:hidden">
+				<div class="flex-none">
 					<label for="drawer" aria-label="open sidebar" class="btn btn-square btn-ghost">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -37,13 +37,6 @@
 							/></svg
 						>
 					</label>
-				</div>
-				<div class="flex-none hidden lg:block">
-					<ul class="menu menu-horizontal">
-						{#each navLinks as link}
-							<li><a href={link.url}>{link.title}</a></li>
-						{/each}
-					</ul>
 				</div>
 			</div>
 			<main>
