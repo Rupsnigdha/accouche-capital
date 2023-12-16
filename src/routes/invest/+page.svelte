@@ -16,7 +16,11 @@
 		<p class="px-6 text-center mt-4">
 			Invest in Accouche. We fund small-town startups with huge profit and growth potential.
 		</p>
-		<a href="/" class="px-12 py-4 bg-primary text-base-100 rounded-full mt-8">Invest in Accouche</a>
+		<a
+			href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
+			class="px-12 py-4 bg-primary text-base-100 rounded-full mt-8"
+			target="_blank">Invest in Accouche</a
+		>
 	</div>
 </section>
 <section class="bg-primary text-base-100 px-4 py-8">
@@ -35,9 +39,9 @@
 			</p>
 		</div>
 		<a
-			href="/"
+			href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
 			class="px-12 w-56 py-4 bg-base-100 text-primary rounded-full mt-8 self-start font-quincy"
-			>Invest in Accouche</a
+			target="_blank">Invest in Accouche</a
 		>
 	</div>
 </section>
@@ -93,6 +97,10 @@
 		</p>
 	</div>
 	<div class="flex justify-center">
-		<a href="/" class="px-12 py-4 bg-primary text-base-100 rounded-full mt-7">Invest in Accouche</a>
+		<a
+			href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
+			class="px-12 py-4 bg-primary text-base-100 rounded-full mt-7"
+			target="_blank">Invest in Accouche</a
+		>
 	</div>
 </section>

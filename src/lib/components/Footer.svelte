@@ -22,8 +22,17 @@
 		Dibrugarh, Assam 786610
 	</p>
 	<div class="flex justify-between px-32 my-6">
-		<img src={twitter} alt="" />
-		<img src={whatsapp} alt="" />
-		<img src={linkedin} alt="" />
+		<a href="https://twitter.com/accouchecapital" target="_blank">
+			<img src={twitter} alt="" />
+		</a>
+		<a
+			href="https://api.whatsapp.com/send?phone=918368346162&text=Hey!%20I%20want%20to%20know%20more%20about%20Accouche."
+			target="_blank"
+		>
+			<img src={whatsapp} alt="" />
+		</a>
+		<a href="https://www.linkedin.com/company/98774622/" target="_blank">
+			<img src={linkedin} alt="" />
+		</a>
 	</div>
 </footer>

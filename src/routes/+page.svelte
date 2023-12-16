@@ -1,7 +1,6 @@
 <script>
 	import india from '$lib/images/india.png';
 	import mobileHomeVector1 from '$lib/images/mobileHomeVector1.png';
-	import mobileHomeVector2 from '$lib/images/mobileHomeVector2.png';
 </script>
 
 <svelte:head>
@@ -15,14 +14,14 @@
 	</h2>
 	<div class="w-full flex flex-col items-center">
 		<a
-			href="/"
+			href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20from%20Accouche's%20homepage.%20Let's%20talk%20business."
 			class="font-quincy font-medium w-56 border-2 border-primary text-center text-primary py-4 block rounded-full"
-			>Talk to us</a
+			target="_blank">Talk to us</a
 		>
 		<a
-			href="/"
+			href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
 			class="font-quincy font-medium w-56 bg-primary text-base-100 border-2 border-primary text-center py-4 block mt-4 rounded-full"
-			>Invest in Accouche</a
+			target="_blank">Invest in Accouche</a
 		>
 	</div>
 	<div class="w-full justify-self-end">
@@ -69,13 +68,13 @@
 <section class="flex flex-col items-center px-3">
 	<h2 class="font-quincy font-medium text-3xl text-center">Let's work together.</h2>
 	<a
-		href="/"
+		href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20from%20Accouche's%20homepage.%20Let's%20talk%20business."
 		class="font-quincy font-medium w-56 border-2 border-primary text-center text-primary py-4 block mt-12 rounded-full"
-		>Talk to us</a
+		target="_blank">Talk to us</a
 	>
 	<a
-		href="/"
+		href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
 		class="font-quincy font-medium w-56 bg-primary text-base-100 border-2 border-primary text-center py-4 block mt-4 rounded-full"
-		>Invest in Accouche</a
+		target="_blank">Invest in Accouche</a
 	>
 </section>

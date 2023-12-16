@@ -22,14 +22,14 @@
 		</p>
 		<div class="w-full flex flex-col items-center">
 			<a
-				href="/"
+				href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20from%20Accouche's%20homepage.%20Let's%20talk%20business."
 				class="font-quincy font-medium w-56 border-2 border-primary text-center text-primary py-4 block rounded-full"
-				>Talk to us</a
+				target="_blank">Talk to us</a
 			>
 			<a
-				href="/"
+				href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
 				class="font-quincy font-medium w-56 bg-primary text-base-100 border-2 border-primary text-center py-4 block mt-4 rounded-full"
-				>Invest in Accouche</a
+				target="_blank">Invest in Accouche</a
 			>
 		</div>
 	</section>
@@ -87,14 +87,14 @@
 		</p>
 		<div class="w-full flex flex-col items-center h-full justify-center mt-8">
 			<a
-				href="/"
+				href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20from%20Accouche's%20homepage.%20Let's%20talk%20business."
 				class="font-quincy font-medium w-56 border-2 border-primary text-center text-primary py-4 block rounded-full"
-				>Talk to us</a
+				target="_blank">Talk to us</a
 			>
 			<a
-				href="/"
+				href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
 				class="font-quincy font-medium w-56 bg-primary text-base-100 border-2 border-primary text-center py-4 block mt-4 rounded-full"
-				>Invest in Accouche</a
+				target="_blank">Invest in Accouche</a
 			>
 		</div>
 	</section>
@@ -189,8 +189,10 @@
 			</p>
 		</div>
 		<div class="flex justify-center">
-			<a href="/" class="px-12 py-4 bg-primary text-base-100 rounded-full mt-7"
-				>Invest in Accouche</a
+			<a
+				href="https://api.whatsapp.com/send?phone=918368346162&text=Hi,%20here%20to%20invest%20on%20Accouche."
+				class="px-12 py-4 bg-primary text-base-100 rounded-full mt-7"
+				target="_blank">Invest in Accouche</a
 			>
 		</div>
 	</section>
