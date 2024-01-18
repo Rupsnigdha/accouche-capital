@@ -11,7 +11,7 @@
 	</div>
 	<div class="flex flex-col items-center font-quincy font-500 font-medium">
 		<h1 class="text-3xl font-medium text-center px-6">
-			<span class="text-accent">24% returns</span> at the comfort of your home.
+			<span class="text-accent">20% returns</span> at the comfort of your home.
 		</h1>
 		<p class="px-6 text-center mt-4">
 			Invest in Accouche. We fund small-town startups with huge profit and growth potential.
