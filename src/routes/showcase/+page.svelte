@@ -131,7 +131,7 @@
 		<h2 class="text-center font-quincy text-3xl text-[#434331] font-medium">
 			Projections for next year
 		</h2>
-		<p class="text-center font-articulat font-medium text-[#A7A788] mt-4 text-sm">
+		<p class="text-center font-articulat font-medium text-[#A7A788] mt-4 mb-6 text-sm">
 			By 2025, we’re targeting 52% returns on our initial capital, plus half a crore of fresh
 			investments.
 		</p>

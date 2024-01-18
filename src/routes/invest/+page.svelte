@@ -45,14 +45,15 @@
 		>
 	</div>
 </section>
-<section class="bg-primary text-base-100 px-4 py-8">
-	<p class="mt-8 font-articulat font-400 text-sm opacity-60">
+<section class="bg-primary text-base-100 px-4 py-4">
+	<p class="mt-4 font-articulat font-400 text-sm opacity-60">
 		Accouche started out with one mission.
 	</p>
 	<p class="mt-8 font-articulat font-400 text-sm opacity-60">
 		Help remarkable small-town startups build impactful companies. We pitched our mission to a
 		select few investors sharing the same vision. This inspired them to venture together into the
-		world of local startups with us. To everyone who believe in us, we thank you from the bottom of
+		world of local startups with us. </p>
+	<p class="font-articulat font-400 text-sm opacity-60 mt-2">To everyone who believe in us, we thank you from the bottom of
 		our hearts.
 	</p>
 	<div class="mt-4 text-xs opacity-50">
